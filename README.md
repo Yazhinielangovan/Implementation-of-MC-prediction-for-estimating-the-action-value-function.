@@ -137,8 +137,6 @@ for key in Q:
 
 ## Output
 
-```
-
 Action Value Function:
 
 State-Action (8, 1): 0.000
@@ -185,8 +183,6 @@ State-Action (3, 2): 0.006
 State-Action (6, 3): 0.011
 State-Action (14, 2): 1.000
 State-Action (14, 1): 0.255
-
----
 
 ## Result
 
