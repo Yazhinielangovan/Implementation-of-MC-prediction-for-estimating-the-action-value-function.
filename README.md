@@ -132,7 +132,7 @@ print("\nAction Value Function:\n")
 
 for key in Q:
     print(f"State-Action {key}: {Q[key]:.3f}")
-
+```
 ---
 
 ## Output
