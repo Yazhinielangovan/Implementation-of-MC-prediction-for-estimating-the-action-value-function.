@@ -136,7 +136,7 @@ for key in Q:
 ---
 
 ## Output
-
+```
 Action Value Function:
 
 State-Action (8, 1): 0.000
@@ -183,7 +183,7 @@ State-Action (3, 2): 0.006
 State-Action (6, 3): 0.011
 State-Action (14, 2): 1.000
 State-Action (14, 1): 0.255
-
+```
 ## Result
 
 Thus, the Monte Carlo Prediction algorithm was successfully implemented for estimating the action-value function \(Q(s,a)\). The expected returns for different state-action pairs were calculated using sampled episodes generated from the environment.
